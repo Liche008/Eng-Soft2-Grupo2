@@ -1,0 +1,22 @@
+Planejamento do Seminário:
+
+introdução [slide1] A arquitetura de um software se refere a estrutura fundamental de um software, cada
+estrutura compreende elementos de um software, a relação entre eles, e também suas propriedades.
+como conceito, tem sua origem na pesquisa de Edsger Dijkstra, em 1968, mas só começando a se popularizar a partir da decada de 80.
+[slide2] é importante se preocupar com a arquitetura de um software desde o dia 0 da concepção de um software, porque nos estagios iniciais
+de um software, cada escolha tem um impacto enorme no futuro, a arquitetura do software é fundamental pra evitar problemas futuros como lentidão
+nos processos, retrabalho, e evitar custos mais altos.
+[assunto do slide3] o objetivo da arquitetura de software é definir a estrutura que um software vai tomar, pra garantir melhores indicadores de desempenho, segurança e escalabilidade.
+
+Um dos padrões mais utilizados e mais simples de arquitetura de software é o MVC (Model View Controller)
+nessa estrutura, a camada Model contem e trabalha com os dados da aplicação e é onde as regras de negocio são aplicadas
+o view exibe esses dados para o usuario e permite que o mesmo interaja com a aplicação, e por fim
+o controller é o meio de comunicação entre os dois, intermediando consultas ao banco de dados, valida dados e por ai vai.
+
+Outro Padrão de Arquitetura é a em Camadas, que separa responsabilidades em um numero de camadas suficientes, a separação deve ser clara e documentada.
+o numero de camadas varia conforme a necessidade, um exemplo seria ter as seguintes 4 camadas:
+
+Controller, que gerencia as requisições e respostas. 
+Service, responsavel por aplicar a regra de negocios. 
+Repository, responsavel pelo banco de dados.
+Entity, que representa a tabela do banco de dados dentro da aplicação.
