@@ -14,6 +14,10 @@
 ### Explicação:
 <p style="text-align:left">&nbsp;&nbsp;&nbsp;Na atividade os alunos serão separados em grupos até 3 pessoas(Monolitica, ModelViewController, Microsserviços). Cada grupo receberá 1 folha com 3 estruturas de arquitetura de software. A seguir serão passadas ações que o software faz como < MostrarValores >, < AlteraValor >, < EditaValores >. E cada ação terá que ser posicionada onde cada grupo acredita que deve ser.</p>
 
+#### Folha:
+
+<img src="./Atividade/Imagens/Folha.png">
+
 #### Exemplo:
 
 <img src="./Atividade/Imagens/Exemplo.png" width="404" height="332">
