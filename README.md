@@ -32,13 +32,13 @@
 
 
 ### Monolítico
-< img src="./Atividade/Imagens/GabaritoMonolitico.png">
+<img src="./Atividade/Imagens/GabaritoMonolitico.png">
 
 ### Model View Controller
-< img src="./Atividade/Imagens/GabaritoMVC.png">
+<img src="./Atividade/Imagens/GabaritoMVC.png">
 
 ### Microsserviços
-< img src="./Atividade/Imagens/GabaritoMicrosservico.png">
+<img src="./Atividade/Imagens/GabaritoMicrosservico.png">
 
 ## Avaliação
 
