@@ -4,7 +4,7 @@
 ### Grupo 2 -  Arquitetura de Software: 
 **Integrantes:** João Pedro (202510545) e Gabriel Nunes (202410798)
 
-[Material de aprensentação](./Slides)
+[Material de aprensentação](./Apresentacao.pptx)
 
 [Plano de Aula](./Plano_de_aula)
 
